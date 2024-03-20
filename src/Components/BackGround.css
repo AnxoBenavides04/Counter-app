@@ -1,0 +1,28 @@
+button {
+    background-color:darkgray;
+    color: orangered;
+    border: 0px;
+    margin: 2px;
+    width: 70px;
+  }
+body {
+  background-image: url('./Captura.PNG');
+}
+h1 {
+  color: rgb(52, 38, 252);
+  font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.App {
+  display: flex;
+  flex-direction: column;
+  align-items:center;
+  justify-content: center;
+  height: 100vh;
+}
+#Counter {
+  border-radius: 4px;
+  background-color: rgb(84, 84, 84);
+  
+  width: 25%;
+  height: 25%;
+}
